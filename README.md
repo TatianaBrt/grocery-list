@@ -7,4 +7,6 @@
 ## Features
 This project implements add and remove notes.
 ## Preview
+![React App - Google Chrome 13 07 2023 15_52_32](https://github.com/TatianaBrt/grocery-list/assets/115479875/71bba16b-d489-4c54-b2a0-eaef4014bd48)
+
 
